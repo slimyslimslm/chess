@@ -1,5 +1,5 @@
 
-Chess piece assets used:
+Assets used (in "Sprites" folder):
 
 "Chess Pieces and Board Squares" by JohnPablok
 Source: [https://opengameart.org/content/chess-pieces-and-board-squares]
